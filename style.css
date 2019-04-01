@@ -1,5 +1,9 @@
-html {
-    font-family: 'Cutive Mono', monospace;
+body {
+    font-family: 'Karla', sans-serif;
+}
+
+#header {
+    font-family: 'Lora', serif;
 }
 
 img {
